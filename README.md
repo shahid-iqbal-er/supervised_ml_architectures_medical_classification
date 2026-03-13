@@ -1,14 +1,41 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Research Project](https://img.shields.io/badge/Type-Research%20Project-blue)
 ![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
 ![Flask](https://img.shields.io/badge/Framework-Flask-black.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enabled-green.svg)
 ![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-## 🌟 Introduction
+# Comparative Analysis of Supervised Learning Architectures for Multi-Class Medical Classification
 
-This project was developed as part of an academic effort to explore how classical supervised machine learning models behave on real-world healthcare datasets. The primary goal was not only to achieve high predictive accuracy, but also to understand model behavior, data limitations, and generalization challenges when working with noisy and imperfect clinical data.
+This repository contains the implementation of my undergraduate thesis titled **“Comparative Analysis of Supervised Learning Architectures for Multi-Class Medical Classification.”**
 
-The system integrates multiple disease-specific machine learning models into a single Flask-based web application, allowing structured experimentation and comparison across datasets related to Heart Disease, Liver Disease, Chronic Kidney Disease, and Breast Cancer. The project emphasizes reproducibility, comparative evaluation, and practical constraints commonly encountered in applied healthcare machine learning.
+The project investigates the behavior of classical supervised machine learning models on real-world healthcare datasets, focusing on the comparative evaluation of machine learning models, robustness under noisy and imbalanced data conditions, and practical deployment through an integrated web-based system.
+
+The work evaluates multiple machine learning architectures across several clinical datasets, including **Heart Disease, Liver Disease, Chronic Kidney Disease, and Breast Cancer**, highlighting both predictive performance and practical limitations of real-world healthcare data.
+
+---
+
+## 🎓 Academic Context
+
+This repository accompanies my undergraduate thesis project completed as part of the **Bachelor of Technology (B.Tech) in Computer Science and Engineering** at **Cluster University of Srinagar (2023)**.
+
+The project was evaluated with an **A grade** by the university and recognized for its comparative experimental analysis and methodological rigor.
+
+---
+
+## 🌟 Research Context
+
+This project was developed as part of my undergraduate thesis research to study how different supervised learning architectures behave when applied to real-world healthcare datasets.
+
+The objective was not only to achieve high predictive accuracy but also to examine:
+
+- model generalization across different datasets
+- behavior of algorithms under noisy and imbalanced data conditions
+- limitations of tabular healthcare datasets in predictive modelling
+- comparative performance of classical machine learning architectures
+
+The study implements and evaluates multiple supervised learning models including Logistic Regression, Support Vector Machines (SVM), Random Forest, XGBoost, k-NN, and Naive Bayes across multiple clinical prediction tasks.
+
 
 
 ## Table of Contents
